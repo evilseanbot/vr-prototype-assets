@@ -15,7 +15,23 @@ A collection of assets I'm using for VR prototyping, and links to other resource
   <ul>
     <li>Quaternius
       <ul>
+        <li>Animals</li>
+        <li>Bush</li>
+        <li>Car</li>
+        <li>Car2</li>
+        <li>Clouds</li>
+        <li>Desert</li>
+        <li>Food</li>
+        <li>Furniture</li>
+        <li>Furtniture2<li>
+        <li>MoreNature</li>
         <li>Nature</li>
+        <li>PublicTransport</li>
+        <li>RockFlowerGrass</li>
+        <li>SnowNature</li>
+        <li>Suburban</li>
+        <li>Surburban2</li>
+        <li>Tree</li>
       </ul>
     </ul>
   </li>
