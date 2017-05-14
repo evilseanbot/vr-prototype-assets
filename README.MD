@@ -23,7 +23,7 @@ A collection of assets I'm using for VR prototyping, and links to other resource
         <li>Desert</li>
         <li>Food</li>
         <li>Furniture</li>
-        <li>Furtniture2<li>
+        <li>Furtniture2</li>
         <li>MoreNature</li>
         <li>Nature</li>
         <li>PublicTransport</li>
