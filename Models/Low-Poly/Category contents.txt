@@ -1,0 +1,9 @@
+Nature contains prefab models based on Quintarius's packs:
+- Tree
+- Bush
+- Desert
+- Nature
+
+In the future it will include his packs:
+- MoreNature
+- RockFlowerGrass
